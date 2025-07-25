@@ -10,8 +10,10 @@
 
 
 Put You private keys in private_key.txt
+
+
 Put Your proxy in proxy.txt
 
-and start bat fail
+and start bat file
 
 after use easy menu and enjoy
